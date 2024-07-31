@@ -6,4 +6,4 @@ for i in total_entries:
     list.append(entry)
 print(list)
 list.reverse()
-print(list)
+print(list
